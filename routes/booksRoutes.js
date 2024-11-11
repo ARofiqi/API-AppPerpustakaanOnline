@@ -2,12 +2,10 @@ const express = require("express");
 const router = express.Router();
 const books = require("../data.json");
 
-// Get all books
 router.get("/", (req, res) => {
   res.json(books);
 });
 
-// Get book by ID
 router.get("/:id", (req, res) => {
   const { id } = req.params;
   const book = books.find((book) => book.id === parseInt(id));
@@ -18,7 +16,6 @@ router.get("/:id", (req, res) => {
   }
 });
 
-// Add a new book
 router.post("/", (req, res) => {
   const { title, author, genre, year, image, summary } = req.body;
   if (!title || !author || !genre || !year || !image || !summary) {
@@ -26,7 +23,7 @@ router.post("/", (req, res) => {
   }
 
   const newBook = {
-    id: books.length + 1, // Simple ID generation
+    id: books.length + 1,
     title,
     author,
     genre,
@@ -39,7 +36,6 @@ router.post("/", (req, res) => {
   res.status(201).json(newBook);
 });
 
-// Update a book by ID
 router.put("/:id", (req, res) => {
   const { id } = req.params;
   const { title, author, genre, year, image, summary } = req.body;
@@ -61,7 +57,6 @@ router.put("/:id", (req, res) => {
   }
 });
 
-// Delete a book by ID
 router.delete("/:id", (req, res) => {
   const { id } = req.params;
   const index = books.findIndex((book) => book.id === parseInt(id));

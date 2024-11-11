@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "title": "Laskar Pelangi",
+      "author": "Andrea Hirata",
+      "genre": "Novel",
+      "year": 2005,
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1489732961i/1362193.jpg",
+      "summary": "Laskar Pelangi adalah sebuah novel karya Andrea Hirata yang mengisahkan tentang sekelompok anak yang berjuang untuk mendapatkan pendidikan di sebuah desa kecil di Belitung."
+    },
+    {
+      "id": 2,
+      "title": "Bumi Manusia",
+      "author": "Pramoedya Ananta Toer",
+      "genre": "Sejarah",
+      "year": 1980,
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1565658920i/1398034.jpg",
+      "summary": "Bumi Manusia adalah novel pertama dari tetralogi Pulau Buru yang menceritakan kisah Minke, seorang pribumi yang terlibat dalam perjuangan melawan penjajahan Belanda."
+    },
+    {
+      "id": 3,
+      "title": "Negeri 5 Menara",
+      "author": "Ahmad Fuadi",
+      "genre": "Inspirasi",
+      "year": 2009,
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1249749162i/6688121.jpg",
+      "summary": "Negeri 5 Menara adalah novel inspiratif yang bercerita tentang seorang pemuda yang menempuh pendidikan di pesantren dan belajar tentang kehidupan serta makna persahabatan."
+    },
+    {
+      "id": 4,
+      "title": "Ayat-Ayat Cinta",
+      "author": "Habiburrahman El Shirazy",
+      "genre": "Romansa",
+      "year": 2004,
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1439347437i/969177.jpg",
+      "summary": "Ayat-Ayat Cinta adalah novel yang mengisahkan perjalanan cinta seorang pemuda Indonesia di Mesir yang harus memilih antara dua wanita yang dicintainya."
+    },
+    {
+      "id": 5,
+      "title": "Sang Pemimpi",
+      "author": "Andrea Hirata",
+      "genre": "Novel",
+      "year": 2006,
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1489733383i/1407874.jpg",
+      "summary": "Sang Pemimpi adalah kelanjutan dari Laskar Pelangi yang menceritakan kisah perjalanan hidup Ikal, salah satu karakter dari Laskar Pelangi, dalam mengejar cita-citanya."
+    },
+    {
+      "id": 6,
+      "title": "Perahu Kertas",
+      "author": "Dee Lestari",
+      "genre": "Romansa",
+      "year": 2009,
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356225544i/6765740.jpg",
+      "summary": "Perahu Kertas adalah novel romantis yang menceritakan kisah cinta antara Kugy dan Keenan yang dibumbui dengan perjalanan hidup mereka mengejar impian."
+    },
+    {
+      "id": 7,
+      "title": "Supernova: Ksatria, Puteri, dan Bintang Jatuh",
+      "author": "Dee Lestari",
+      "genre": "Fiksi Ilmiah",
+      "year": 2001,
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1249473779i/994156.jpg",
+      "summary": "Supernova adalah novel fiksi ilmiah yang menggabungkan sains, filsafat, dan kisah cinta dalam satu cerita yang kompleks dan mendalam."
+    },
+    {
+      "id": 8,
+      "title": "Dilan: Dia adalah Dilanku Tahun 1990",
+      "author": "Pidi Baiq",
+      "genre": "Romansa",
+      "year": 2014,
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442310576i/22037542.jpg",
+      "summary": "Dilan adalah novel romansa yang bercerita tentang hubungan antara Milea dan Dilan, yang penuh dengan kejutan dan kenangan manis di tahun 1990."
+    },
+    {
+      "id": 9,
+      "title": "Bulan",
+      "author": "Tere Liye",
+      "genre": "Fantasi",
+      "year": 2015,
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1424060873i/24946146.jpg",
+      "summary": "Bulan adalah novel yang menggabungkan unsur fantasi dengan kehidupan nyata, menceritakan kisah tentang keluarga dan kehidupan dalam dunia paralel."
+    },
+    {
+      "id": 10,
+      "title": "Cantik Itu Luka",
+      "author": "Eka Kurniawan",
+      "genre": "Satire",
+      "year": 2002,
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1502464714i/1353409.jpg",
+      "summary": "Cantik Itu Luka adalah novel satire yang mengangkat tema mengenai kehidupan wanita yang cantik namun penuh dengan luka-luka hidup dan penderitaan."
+    }
+  ]
+  
